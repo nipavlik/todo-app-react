@@ -17,3 +17,5 @@ Run it
 ```bash
 $ npm start # or yarn start
 ```
+## Screenshot
+![Screenshot](https://raw.githubusercontent.com/nipavlik/todo-app-react/master/screenshots/main.png)
